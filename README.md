@@ -18,4 +18,5 @@ Hello everyone, welcome to **INFIGRAM**, the official organization to the open-s
 
 ### LINKS
 [Backend](https://github.com/infigram/infigram-back)
+
 [Git Workflow Tutorial](https://bit.ly/git-workflow-tutorial)
